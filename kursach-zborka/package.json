@@ -2,20 +2,21 @@
   "name": "kursach-zborka",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://github.com/Oreoff/melnyk-maxym-ipz-32-kursova.git",
+  "source": "src/index.html",
+  "homepage": "https://Oreoff.github.io/kursova-build",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /parcel-project-template/"
+    "build": "parcel build src/*.html --public-url /kursova/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Oreoff/melnyk-maxym-ipz-32-kursova.git"
+    "url": "git+https://github.com/Oreoff/kursova-build.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Oreoff/melnyk-maxym-ipz-32-kursova.git"
+    "url": "https://github.com/goitacademy/kursova-build/issues"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0"
