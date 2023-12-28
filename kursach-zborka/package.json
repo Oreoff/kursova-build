@@ -6,7 +6,7 @@
   "homepage": "https://Oreoff.github.io/kursova-build",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /kursova/"
+    "build": "parcel build src/*.html --public-url /kursova-build/"
   },
   "repository": {
     "type": "git",
